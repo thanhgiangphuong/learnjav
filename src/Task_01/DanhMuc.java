@@ -5,4 +5,7 @@ public class DanhMuc {
     private String Loai;
     private String MoTa;
 
+    // comment
+
+    
 }
